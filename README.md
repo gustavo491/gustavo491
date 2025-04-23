@@ -1,6 +1,6 @@
 ### Hi, I'm Gustavo Oliveira 👋
-I am a curious young man looking for new challenges, I am passionate about learning and innovating. I've been working with programming for about 5 years, I started with PHP and recently I've been migrating to JS, I've worked with Vue.js and currently I work with Node.js.
-- 🤝 I'm looking for new projects in Node.js that I can actively contribute to expand my knowledge and evolve the project.
+I am a curious and motivated professional, always seeking new challenges. Passionate about learning and innovation, I’ve been working with programming for about 6 years. I started with PHP, transitioned to JavaScript, and have been actively working with Vue 3 and Node.js. More recently, I’ve also started working with React.
+🤝 I’m currently looking for new opportunities to contribute to projects using Node.js and React, with a strong focus on fullstack development and collaborative environments where I can continue to grow and add value.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gustavo491)
 
@@ -23,11 +23,14 @@ I am a curious young man looking for new challenges, I am passionate about learn
 ![](https://img.shields.io/badge/Code-PHP-brightgreen)
 ![](https://img.shields.io/badge/Code-Node.js-brightgreen)
 ![](https://img.shields.io/badge/Code-Javascript-brightgreen)
+![](https://img.shields.io/badge/Code-React-brightgreen)
 ![](https://img.shields.io/badge/Code-Jquery-brightgreen)
 ![](https://img.shields.io/badge/Code-Laravel-brightgreen)
 ![](https://img.shields.io/badge/Code-Vue.js-brightgreen)
+![](https://img.shields.io/badge/Style-Tailwind%20CSS-blue)
 ![](https://img.shields.io/badge/Util-Docker-yellow)
 ![](https://img.shields.io/badge/Util-AWS-yellow)
+![](https://img.shields.io/badge/Util-RabbitMQ-orange)
 ![](https://img.shields.io/badge/Database-MYSQL-red)
 ![](https://img.shields.io/badge/Database-ORACLE-red)
 ![](https://img.shields.io/badge/Database-SQLSERVER-red)
