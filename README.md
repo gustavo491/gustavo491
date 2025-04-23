@@ -1,6 +1,6 @@
 ### Hi, I'm Gustavo Oliveira 👋
 I am a curious and motivated professional, always seeking new challenges. Passionate about learning and innovation, I’ve been working with programming for about 6 years. I started with PHP, transitioned to JavaScript, and have been actively working with Vue 3 and Node.js. More recently, I’ve also started working with React.
-🤝 I’m currently looking for new opportunities to contribute to projects using Node.js and React, with a strong focus on fullstack development and collaborative environments where I can continue to grow and add value.
+- 🤝 I’m currently looking for new opportunities to contribute to projects using Node.js and React, with a strong focus on fullstack development and collaborative environments where I can continue to grow and add value.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gustavo491)
 
